@@ -1,3 +1,6 @@
+[![Build Status](https://travis-ci.org/devsoft91/java_actor_model.svg?branch=master)](https://travis-ci.org/devsoft91/java_actor_model.svg?branch=master)
+
+
 # pcd-actors
 A mock system that abstract a simplified implementation of the [actor model](https://en.wikipedia.org/wiki/Actor_model). 
 The system has to be considered as a mock because the main components are intentionally left abstract.
